@@ -1,5 +1,6 @@
 # Sales Dashboard Project
-![Sales Dashboard Overview](dashboard.png)
+![Sales Dashboard Overview](Dashboard.png)
+
 ## Overview
 
 This project demonstrates the creation of a comprehensive sales dashboard using Microsoft Excel. The dashboard is designed to visualize and analyze a large, unaggregated dataset, providing insights into sales performance over time, by region, segment, and product category.
